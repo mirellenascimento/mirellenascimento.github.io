@@ -403,6 +403,10 @@ a:hover {
     padding-right: 0;
     padding-left: 0;
   }
+  iframe, .noweb{
+    display: none;
+  }
+
 }
 
 .custom-navbar .navbar-brand {
